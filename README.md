@@ -1,8 +1,3 @@
-<!-- Banner opcional -->
-<p align="center">
-  <img src="https://github.com/jjuanx/jjuanx/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy Juan</h1>
 <p align="center">
   Estudiante de <b>Ingeniería de Software (3º año)</b> en la <b>Universidad de Sevilla</b>.<br>
