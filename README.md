@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tecnologías principales
+### Tecnologías principales
 
 <p align="center">
   <!-- Lenguajes -->
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧩 Proyectos destacados
+### Proyectos destacados
 
 - 🔹 **[GitHubMiner / GitMiner / BitbucketMiner](https://github.com/jjuanx)**  
   Conjunto de microservicios que obtienen y transforman información de repositorios (GitHub y Bitbucket) hacia un modelo común.  
@@ -41,7 +41,7 @@
 
 ---
 
-### 📚 Actualmente aprendiendo
+### Actualmente aprendiendo
 
 - Arquitectura hexagonal y patrones de diseño  
 - Testing avanzado con Jest y Supertest  
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jjuanx&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -61,10 +61,10 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="mailto:juanpozogarcia@gmail.com">
+  <a href="mailto:jpozogarcia2017@gmail.com">
     <img src="https://img.shields.io/badge/Correo%20personal-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu_usuario/">
+  <a href="https://www.linkedin.com/in/juan-pozo-garcía-755168355/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
