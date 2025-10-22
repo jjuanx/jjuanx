@@ -1,8 +1,3 @@
-<!-- Banner opcional -->
-<!-- Puedes reemplazar el enlace del banner por una imagen personalizada tuya o de fondo tech -->
-<p align="center">
-  <img src="https://github.com/jjuanx/jjuanx/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 ¡Hola! Soy Juan</h1>
 <p align="center">
