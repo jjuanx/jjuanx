@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Juan</h1>
 <p align="center">
   Estudiante de <b>Ingeniería de Software (3º año)</b> en la <b>Universidad de Sevilla</b>.<br>
-  Apasionado por la <b>arquitectura de software</b>, el <b>backend</b> y el <b>desarrollo móvil</b>.
+  Apasionado por la <b>arquitectura de software</b> y el <b>desarrollo móvil</b>.
 </p>
 
 ---
