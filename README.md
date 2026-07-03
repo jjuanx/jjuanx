@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Estudiante de <b>Ingeniería de Software (3º año)</b> en la <b>Universidad de Sevilla</b>.<br>
+  <b>Ingeniería de Software (4º año)</b> en la <b>Universidad de Sevilla</b>.<br>
   Apasionado por la <b>arquitectura de software</b> y el <b>desarrollo móvil</b>.
 </p>
 
