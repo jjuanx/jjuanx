@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Ingeniería de Software (4º año)</b> en la <b>Universidad de Sevilla</b>.<br>
-  Apasionado por la <b>arquitectura de software</b> y el <b>desarrollo móvil</b>.
+  Apasionado por la <b>arquitectura de software</b> y el <b>desarrollo web</b>.
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ### 🎓 Formación
 
-- 🏛️ **Grado en Ingeniería de Software** — Universidad de Sevilla *(2023 – actualidad, 3º curso)*
+- 🏛️ **Grado en Ingeniería de Software** — Universidad de Sevilla *(2023 – actualidad, 4º curso)*
 - 📌 Áreas clave: arquitectura y diseño de software, ingeniería de requisitos, bases de datos, desarrollo web y móvil, ingeniería del software aplicada
 - 🧪 Experiencia práctica en proyectos por equipos con metodologías ágiles, control de versiones y despliegue en la nube
 
