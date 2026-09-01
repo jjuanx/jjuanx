@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jjuanx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=600&lines=Cofundador+y+CTO+de+Skanda+%E2%80%94+ERP+SaaS+en+producci%C3%B3n;Full-stack%3A+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+PostgreSQL;IA+aplicada+a+producto%3A+OCR+y+extracci%C3%B3n+estructurada;Ingenier%C3%ADa+de+Software+%40+Universidad+de+Sevilla" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=600&height=45&lines=Cofundador+y+CTO+de+Skanda;ERP+SaaS+en+producci%C3%B3n+con+clientes;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+PostgreSQL;IA+aplicada+a+producto+real;Ingenier%C3%ADa+de+Software+%C2%B7+Univ.+de+Sevilla" alt="Typing SVG"/>
   </a>
 </p>
 
