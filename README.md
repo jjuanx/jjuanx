@@ -105,9 +105,3 @@ Producto propio, **en producción y con clientes de pago**. Lo diseñé y lo des
     <img src="https://img.shields.io/badge/skanda--software.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Skanda"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanx&layout=compact&theme=github_dark&hide_border=true&locale=es&langs_count=8" height="150" alt="Lenguajes más usados"/>
-</p>
