@@ -87,7 +87,7 @@ Producto propio, **en producción y con clientes de pago**. Lo diseñé y lo des
 ### 🔭 En lo que estoy ahora
 
 - Escalando Skanda: rendimiento multi-tenant, observabilidad y facturación electrónica
-- TFG sobre **OCR y parsing de tickets** de supermercado españoles
+- Buscando prácticas o un equipo en el que formarme profesionalmente
 - Arquitectura hexagonal, testing y despliegue continuo aplicados a producto real
 
 ---
